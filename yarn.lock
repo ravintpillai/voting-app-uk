@@ -1243,6 +1243,11 @@ alphanum-sort@^1.0.0:
   resolved "https://registry.yarnpkg.com/alphanum-sort/-/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
   integrity sha1-l6ERlkmyEa0zaR2fn0hqjsn74KM=
 
+animate.css@^3.7.0:
+  version "3.7.0"
+  resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/animate.css/-/animate.css-3.7.0.tgz#5de25d1ee5fba11ba6a1e2c4fa568f512eb7d4da"
+  integrity sha1-XeJdHuX7oRumoeLE+laPUS631No=
+
 ansi-colors@^3.0.0:
   version "3.2.4"
   resolved "https://registry.yarnpkg.com/ansi-colors/-/ansi-colors-3.2.4.tgz#e3a3da4bfbae6c86a9c285625de124a234026fbf"
@@ -7925,7 +7930,7 @@ react-dev-utils@^8.0.0:
     strip-ansi "5.0.0"
     text-table "0.2.0"
 
-react-dom@16.8.6:
+react-dom@^16.8.6:
   version "16.8.6"
   resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/react-dom/-/react-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
   integrity sha1-cdYwP2MeiwCX9WFl72CPBR/24Q8=
@@ -7944,6 +7949,13 @@ react-is@^16.8.1:
   version "16.8.4"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.4.tgz#90f336a68c3a29a096a3d648ab80e87ec61482a2"
   integrity sha512-PVadd+WaUDOAciICm/J1waJaSvgq+4rHE/K70j0PFqKhkTBsPv/82UGQJNXAngz1fOQLLxI6z1sEDmJDQhCTAA==
+
+react-polls@^1.2.0:
+  version "1.2.0"
+  resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/react-polls/-/react-polls-1.2.0.tgz#4d2e9802efe7e83ee8b37ae3d1368f7bf7869675"
+  integrity sha1-TS6YAu/n6D7os3rj0TaPe/eGlnU=
+  dependencies:
+    animate.css "^3.7.0"
 
 react-scripts@2.1.8:
   version "2.1.8"
@@ -7999,7 +8011,7 @@ react-scripts@2.1.8:
   optionalDependencies:
     fsevents "1.2.4"
 
-react@16.8.6:
+react@^16.8.6:
   version "16.8.6"
   resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/react/-/react-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
   integrity sha1-rWw6lhT9Ok6e9REX9U2IjaAfK74=
