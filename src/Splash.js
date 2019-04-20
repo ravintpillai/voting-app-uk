@@ -11,8 +11,8 @@ export class SplashPage extends Component {
     render() {
         return (
             <div className="wrapper">
-                <div class="top-menu">
-                    <div className="g-signin2" data-onSuccess={this.onSignIn}></div>
+                <div className="top-menu">
+                    <div className="g-signin2" onClick={this.onSignIn}></div>
                 </div>
                 <div className="hero-image">
                     <div className="hero-text">
