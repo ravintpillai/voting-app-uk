@@ -3,11 +3,6 @@ import './App.css';
 
  
 export class SplashPage extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {isToggleOn: true};
-    }
-
     onSignIn(){
         console.log('hi')
         return true;
@@ -20,7 +15,7 @@ export class SplashPage extends Component {
                     <div className="g-signin2" data-onSuccess={this.onSignIn}></div>
                 </div>
                 <div className="hero-image">
-                        <div className="hero-text">
+                    <div className="hero-text">
                         <h1>How Britain Thinks</h1>
                         <p>Up to date information on what British people care about</p>
                     </div>
