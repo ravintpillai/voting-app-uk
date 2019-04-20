@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-import { PollPage } from './PollPage';
+import { SplashPage } from './Splash';
 
  
 class App extends Component {
   render() {
     return (
-        <PollPage />
+        <SplashPage />
     );
   }
 };

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="87px" viewBox="0 0 89 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>track versions</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tabs-(Icons)" transform="translate(-2.000000, -121.000000)">
+            <g id="track-versions" transform="translate(2.000000, 120.000000)">
+                <path d="M87.699,16.488 C86.094,18.094 83.492,18.094 81.883,16.488 C80.281,14.887 80.281,12.281 81.883,10.676 C83.492,9.07 86.094,9.07 87.699,10.676 C89.305,12.281 89.305,14.887 87.699,16.488" id="Fill-4" fill="#24303A"></path>
+                <path d="M50.812,48.484 L37.586,39.805 M41.922,54.992 L35.195,50.578 M51.551,54.992 L31.324,41.719 M53.094,37.516 L46.727,33.336 M57.273,46.273 L37.043,33" id="Stroke-5" stroke="#24303A" stroke-width="0.8"></path>
+                <path d="M36.414,61.219 L45.945,61.117 C59.137,60.973 66.145,50.297 61.023,38.137 L50.645,13.48 C48.504,8.398 48.352,4.027 50.465,0.188 M3.812,74.621 C4.176,66.828 10.371,61.508 19.191,61.41 L33.34,61.297" id="Stroke-6" stroke="#24303A" stroke-width="0.8" stroke-dasharray="2,2"></path>
+                <path d="M55.992,26.176 L69.766,26.027 C77.566,25.941 83.316,21.77 84.793,15.414 M38.547,87.148 C40.32,83.414 40.328,78.742 38.312,73.957 L35.891,68.199 L27.934,49.301 C22.816,37.141 29.82,26.461 43.016,26.316 L52.215,26.176" id="Stroke-7" stroke="#24303A" stroke-width="0.8"></path>
+                <g id="Group-11" transform="translate(0.000000, 66.000000)">
+                    <path d="M8.91,4.754 C8.91,7.023 7.07,8.867 4.801,8.867 C2.531,8.867 0.688,7.023 0.688,4.754 C0.688,2.484 2.531,0.645 4.801,0.645 C7.07,0.645 8.91,2.484 8.91,4.754" id="Fill-8" fill="#FFFFFF"></path>
+                    <path d="M8.91,4.754 C8.91,7.023 7.07,8.867 4.801,8.867 C2.531,8.867 0.688,7.023 0.688,4.754 C0.688,2.484 2.531,0.645 4.801,0.645 C7.07,0.645 8.91,2.484 8.91,4.754 Z" id="Stroke-10" stroke="#24303A" stroke-width="0.8"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
