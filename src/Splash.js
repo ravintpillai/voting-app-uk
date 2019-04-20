@@ -15,7 +15,7 @@ export class SplashPage extends Component {
     return (
         <div className="wrapper">
         <div class="top-menu">
-            <div class="g-signin2" data-onsuccess="onSignIn"></div>
+            <div className="g-signin2" data-onsuccess="onSignIn"></div>
         </div>
             <div className="hero-image">
                     <div className="hero-text">
