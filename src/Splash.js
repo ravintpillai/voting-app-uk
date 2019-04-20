@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { MDBBtn } from "mdbreact";
 import './App.css';
 
  
@@ -14,15 +13,11 @@ export class SplashPage extends Component {
         return true;
     }
 
-    onClick(){
-        console.log("Oh Crap!")
-    }
     render() {
         return (
             <div className="wrapper">
                 <div class="top-menu">
-                    <div className="g-signin2" data-onsuccess={this.onSignIn} data-onclick={this.onClick}></div>
-                    <MDBBtn className="button" onclick={this.onClick}></MDBBtn>
+                    <div className="g-signin2" data-onSuccess={this.onSignIn}></div>
                 </div>
                 <div className="hero-image">
                         <div className="hero-text">

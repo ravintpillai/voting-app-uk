@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
     "mdbreact": "^4.13.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
