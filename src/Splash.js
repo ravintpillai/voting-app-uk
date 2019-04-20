@@ -2,14 +2,19 @@ import React, { Component } from 'react';
 import './App.css';
  
 export class SplashPage extends Component {
-    onSignIn =  () => {
+    constructor(props) {
+        super(props);
+        this.state = {isToggleOn: true};
+    }
+
+    onSignIn(){
         return console.log('hi')
     }
     render() {
         return (
             <div className="wrapper">
                 <div class="top-menu">
-                    <div className="g-signin2" data-onsuccess="onSignIn"></div>
+                    <div className="g-signin2" data-onsuccess={this.onSignIn}></div>
                 </div>
                 <div className="hero-image">
                         <div className="hero-text">
